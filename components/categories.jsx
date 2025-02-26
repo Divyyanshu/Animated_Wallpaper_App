@@ -62,6 +62,6 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: hp(1.8),
-    fontWeight: theme.fontWeight.medium,
+    fontWeight: theme.fontWeight.semi,
   },
 });
